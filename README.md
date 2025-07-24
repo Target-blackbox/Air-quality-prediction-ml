@@ -18,7 +18,7 @@ This project aims to predict the Air Quality Index (AQI) using urban pollutant d
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## 📄 Report
-Read the full research paper here: [Air_Quality_Prediction_Report.pdf](.Air_Quality_Prediction_Report.pdf)
+Read the full research paper here: [Air_Quality_Prediction_Report.pdf](./Air_Quality_Prediction_Report.pdf)
 
 ---
 
